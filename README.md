@@ -5,7 +5,8 @@ This repository contains my solutions for various LeetCode problems. Each proble
 ## Table of Contents
 
 - [1, Two Sum](./1_Two_Sum/)
-- [2. Add Two Numbers](./problem2/)
+- [2. Add Two Numbers](./2_Add_Two_Numbers/)
+- [9. Palindrome Number](./9_Palindrome_Number/)
 
 ## Getting Started
 
