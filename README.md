@@ -1,16 +1,17 @@
-# LeetCode
+# LeetCode Solutions
 
-This repository contains my solutions for various LeetCode problems. Each problem solution is organized in its own directory, and the code is written in [language].
+Welcome to my LeetCode solutions repository. Here, you will find my solutions to various LeetCode problems. Each problem solution is organized in its directory, and the languages I'm working with at the moment are Java, Python, and Go.
 
 ## Table of Contents
 
-- [1, Two Sum](./1_Two_Sum/)
+- [1. Two Sum](./1_Two_Sum/)
 - [2. Add Two Numbers](./2_Add_Two_Numbers/)
 - [9. Palindrome Number](./9_Palindrome_Number/)
+- [13. Roman to Integer](./13_Roman_to_Integer/)
 
 ## Getting Started
 
-To access the solutions, you can simply navigate through the table of contents above and click on the problem links. Each problem directory includes the problem statement and the corresponding solution code.
+To access the solutions, simply navigate through the table of contents above and click on the links to each problem. Inside each problem directory, you will find the problem statement along with the corresponding solution code.
 
 ## Acknowledgements
 
@@ -18,6 +19,7 @@ To access the solutions, you can simply navigate through the table of contents a
 
 ## Contact
 
-If you have any questions or suggestions regarding this repository, please feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/francisco-rodr%C3%ADguez-espinosa-a1a936117/).
+If you have any questions or suggestions regarding this repository, or if you need a solution in another language not currently available, please feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/francisco-rodr%C3%ADguez-espinosa-a1a936117/).
 
 Happy coding!
+
