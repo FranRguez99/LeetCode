@@ -1,13 +1,12 @@
 # LeetCode Solutions
 
-Welcome to my LeetCode solutions repository. Here, you will find my solutions to various LeetCode problems. Each problem solution is organized in its directory, and the languages I'm working with at the moment are Java, Python, and Go.
+Welcome to my LeetCode solutions repository. Here, I will share my solutions in various programming languages
 
 ## Table of Contents
 
 - [1. Two Sum](./1_Two_Sum/)
 - [2. Add Two Numbers](./2_Add_Two_Numbers/)
 - [9. Palindrome Number](./9_Palindrome_Number/)
-- [13. Roman to Integer](./13_Roman_to_Integer/)
 
 ## Getting Started
 
