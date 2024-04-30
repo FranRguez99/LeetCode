@@ -8,7 +8,7 @@ class Solution {
         for (int i = 0; i < nums.length; i++) {
             int complement = target - nums[i]; // Calculate the complement of the current number
             if (numMap.containsKey(complement)) { // If the complement is present in the map
-                return new int[] { numMap.get(complement), i }; // Return the indices of the two numbers that add up to the target
+                return new int[] { numMap.get(complement), i }; // Return the index of the two numbers that add up to the target
             }
             numMap.put(nums[i], i); // Add the current number to the map with its index
         }
