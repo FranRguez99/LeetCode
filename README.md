@@ -21,5 +21,3 @@ To access the solutions, simply navigate through the table of contents above and
 If you have any questions or suggestions regarding this repository, or if you need a solution in another language not currently available, please feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/francisco-rodr%C3%ADguez-espinosa-a1a936117/).
 
 Happy coding!
-
-Trying a commit from VSCode
